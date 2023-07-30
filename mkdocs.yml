@@ -1,0 +1,60 @@
+site_name: Code Journey 编程之旅
+docs_dir: docs/
+repo_name: 'Open-BJUT/CodeJourney'
+repo_url: https://github.com/Open-BJUT/CodeJourney
+theme:
+  name: material
+  language: zh
+  static_templates:
+    - 404.html
+  include_search_page: false
+  search_index_only: true
+  features:
+    - header.autohide
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+  palette:
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: cyan
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  custom_dir: overrides
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - 引子：浅谈学习观: 'index.md'
+  - 正式学习之前: '正式学习之前.md'
+  - 今天，我开始自学了！: '今天，我开始自学了！.md'
+copyright: |
+  &copy; 2023 <a href="https://github.com/Open-BJUT"  target="_blank" rel="noopener">Open-BJUT</a>
