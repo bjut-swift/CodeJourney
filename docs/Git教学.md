@@ -38,7 +38,7 @@ $git clone username@host:/path/to/repository
 ---
 工作流
 >你的本地仓库由 git 维护的三棵“树”组成。第一个是你的 工作目录，它持有实际文件；第二个是 暂存区（Index），它像个缓存区域，临时保存你的改动；最后是 HEAD，它指向你最后一次提交的结果。
-![工作流](./Image/工作流.png)
+![工作流](./images/工作流.png)
 ---
 - [ ] 添加和提交
 >你可以提出更改（把它们添加到暂存区），使用如下命令：
@@ -65,7 +65,7 @@ $git remote add origin <server>
 如此你就能够将你的改动推送到所添加的服务器上去了。
 - [ ] 分支
 >分支是用来将特性开发绝缘开来的。在你创建仓库的时候，master 是“默认的”分支。在其他分支上进行开发，完成后再将它们合并到主分支上。
-![分支](./Image/分支.png)
+![分支](./images/分支.png)
 创建一个叫做“feature_x”的分支，并切换过去：
 ``````Bash
 $git checkout -b feature_x
@@ -102,13 +102,13 @@ $git diff <source_branch> <target_branch>
 ``````
 ## 3.实现你的第一次Github上传
 >.首先登录已创建的Github账号，点击Github主页右上方的加号，点击里面的New repository。
-![上传流程1](./Image/上传流程1.png)
+![上传流程1](./images/上传流程1.png)
 ---
 >.在弹出的界面，填写好所要创建库的基本信息，包括简练的库名称、库概要，推荐勾选创建README.md文档利用Markdown语言进行编写，方便他人更快的了解库的基本概要。如果对Markdown语言感兴趣可跳转至[Markdown教学](https://www.bilibili.com/video/BV1JA411h7Gw/?vd_source=5c35b9cbf8d758302c1e99de23a6465f)进行学习。
-![上传流程2](./Image/上传流程2.png)
+![上传流程2](./images/上传流程2.png)
 ---
 >.随后在本地想要上传至Github库的文件夹中点击右键->显示更多选项->Git Bash Here 打开命令窗口进行交互
-![上传流程3](./Image/上传流程3.png)
+![上传流程3](./images/上传流程3.png)
 ---
 >.在Git Bash中利用所学的Git基本命令依次进行
 
@@ -121,7 +121,7 @@ $git init
 $git pull https://github.com/ShiyuBanzhou/Git-.git
 ``````
 >注：该命令中的网址链接需要与所要进行操作的库一一对应，可通过在目标库中点击绿色按钮code，复制弹出的HTTPS中的链接进行获取
-![上传流程5](./Image/上传流程5.png)
+![上传流程5](./images/上传流程5.png)
 
 添加origin主机，与目标库进行关联，此处链接获取方法与上述相同。
 ``````Bash
@@ -156,7 +156,7 @@ $git push -u origin <branch>
 >注：<branch>要与所在分支相对应
 ---
 下面提供一次完整示例：
-![上传流程4](./Image/上传流程4.png)
+![上传流程4](./images/上传流程4.png)
 ---
 这样，你就从0到1独立自主的完成了一次完整的Github上传！
 
