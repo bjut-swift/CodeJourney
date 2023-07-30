@@ -5,7 +5,7 @@
 >3. 配置VSCode运行Python
 >4. 配置Jupyter Notebook
 
-![Jupyter Notebook配置流程](./Image/jupyter配置流程.jpg)
+![Jupyter Notebook配置流程](./images/jupyter配置流程.jpg)
 
 ## 1.下载安装python环境
 长期支持版
@@ -45,8 +45,8 @@ jupyter notebook
 >Ctrl+Shift+X，搜索"Python"，安装Python插件。
 搜索"Code Runner"，安装Code Runner插件，并点击右下角的齿轮中的Extention Settings，勾选其中的Run In Terminal。
 
-![Code Runner配置](./Image/Code%20Runner配置.png)
-![集成终端](./Image/集成终端.png)
+![Code Runner配置](./images/Code%20Runner配置.png)
+![集成终端](./images/集成终端.png)
 
 ②、进行python环境配置：
 >Ctrl+Shift+P,输入python，点击Python:Select Interpreter，选择python的开发环境，与你安装的版本相对应即可。
@@ -56,7 +56,7 @@ jupyter notebook
 
 ## 4. 配置Jupyter Notebook
 只需要创建.ipynb文件，就可以编辑notebook了。或是点击左上角的File，New File中找到Jupyter Notebook。
-![Jupyter Notebook交互](./Image/Jupyter%20Notebook交互.png)
+![Jupyter Notebook交互](./images/Jupyter%20Notebook交互.png)
 >注：如上，1处是添加代码块，点击2可变为markdown，3处是切换服务器，一般不用改直接本地就行，4是选择编译环境。 编辑好代码之后直接运行就好。
 
 ## 后记：
