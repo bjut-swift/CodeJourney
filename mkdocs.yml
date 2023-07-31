@@ -56,8 +56,8 @@ nav:
   - 引子：浅谈学习观: 'index.md'
   - 正式学习之前: '正式学习之前.md'
   - 今天，我开始自学了！: '今天，我开始自学了！.md'
-  - test1: 'jupyter安装教学.md'
-  - test2: 'Git教学'
+  - 正式编程：Python: 'jupyter tutorial.md'
+  - 未完待续: 'To be continued.md'
 
 copyright: |
   &copy; 2023 <a href="https://github.com/Open-BJUT"  target="_blank" rel="noopener">Open-BJUT</a>
