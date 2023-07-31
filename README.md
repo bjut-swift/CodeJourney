@@ -7,10 +7,13 @@
 </div>
 
 如有收获，欢迎留言、分享。
+
 临走前可以在右上角留下一个 Star ⭐
 
 本活动组织者：北京工业大学民间组织 Open-BJUT
+
 活动公共讨论区：[Sir this way](https://xiaoyuancat.cn/note/2)
+
 欢迎新成员加入我们，请联系 openbjut@163.com
 
 ### 免责声明
