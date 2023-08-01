@@ -53,6 +53,8 @@
 
 ![](./images/ipynb.jpg)
 
+> 节选自《鸢尾花书 1 编程不难》 地址：https://github.com/Visualize-ML/Book1_Python-For-Beginners
+
 恭喜你，现在你已经在 VS Code 中设置好了 Jupyter Notebook！你可以开始你的 Python 编程和数据分析之旅了。VS Code 具有强大的代码提示，调试和版本控制功能，我相信你会喜欢在这个环境中工作的。祝你学习愉快！
 
 #### 后记：
