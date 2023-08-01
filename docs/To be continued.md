@@ -7,7 +7,7 @@
 不过分别前，我把三个锦囊塞到了你的手里，若想发挥出锦囊最大效果，请在满足其对应的要求时再打开：
 
 - [锦囊 1](https://csdiy.wiki/)：想离开新手村，踏上属于你的旅程时开启。
-- [锦囊 2](https://github.com/Open-BJUT/BJUT-Helper)：请你遇到期末考试时开启。
+- [锦囊 2](https://open-bjut.github.io/BJUT-Helper/)：请你遇到期末考试时开启。
 - [锦囊 3](https://survivesjtu.gitbook.io/survivesjtumanual/)：对自己和教育环境产生怀疑时开启。
 
 好了，耳边已经传来了知识海洋的涛声，它召唤着你们。
