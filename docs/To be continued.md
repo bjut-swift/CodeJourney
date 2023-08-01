@@ -8,7 +8,7 @@
 
 - [锦囊 1](https://csdiy.wiki/)：想离开新手村，踏上属于你的旅程时开启。
 - [锦囊 2](https://github.com/Open-BJUT/BJUT-Helper)：请你遇到期末考试时开启。
-- [锦囊 3](https://survivesjtu.gitbook.io/survivesjtumanual/)：在你怀疑自己和教育环境时开启。
+- [锦囊 3](https://survivesjtu.gitbook.io/survivesjtumanual/)：对自己和教育环境产生怀疑时开启。
 
 好了，耳边已经传来了知识海洋的涛声，它召唤着你们。
 
