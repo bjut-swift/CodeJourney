@@ -1,7 +1,7 @@
 site_name: Code Journey 编程之旅
 docs_dir: docs/
-repo_name: 'Open-BJUT/CodeJourney'
-repo_url: https://github.com/Open-BJUT/CodeJourney
+repo_name: 'bjut-swift/CodeJourney'
+repo_url: https://github.com/bjut-swift/CodeJourney
 theme:
   name: material
   language: zh
