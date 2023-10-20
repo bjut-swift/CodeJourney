@@ -1,4 +1,4 @@
-# Code Journey | 编程之旅
+# Code Journey | 编程之旅 1.0
 
 <div align="center">
     <img src = "docs/images/title.png" alt = "front" width="500" height="400">
