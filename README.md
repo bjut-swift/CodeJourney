@@ -11,7 +11,7 @@
 
 本活动组织者：北京工业大学民间组织 bjut-swift
 
-活动公共讨论区：[Sir this way](https://xiaoyuancat.cn/note/2)
+活动公共讨论区：[Sir this way](https://xiaoyuancat.com/note/2)
 
 欢迎新成员加入我们，请联系 openbjut@163.com
 
