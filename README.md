@@ -9,7 +9,7 @@
 
 临走前可以在右上角留下一个 Star ⭐
 
-本活动组织者：北京工业大学民间组织 Open-BJUT
+本活动组织者：北京工业大学民间组织 bjut-swift
 
 活动公共讨论区：[Sir this way](https://xiaoyuancat.cn/note/2)
 
