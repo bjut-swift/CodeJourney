@@ -1,3 +1,11 @@
+> [!WARNING]
+> 本教程始于 Jul 30, 2023，在 2026 年重新回头看依然是时代的眼泪，故封存并不再更新（也许后面有人在学校组织学习活动）。
+> 大部分内容仍然可以借鉴，但是初学者建议做出一下改变：
+> - 选择 [uv](https://astral.sh/) 而不是教程里提到的 Anaconda
+> - 看完教程前两节后直接退出，然后直接去看最新的教材，如 《Python编程从新手到高手》 - 贾森·C. 麦克唐纳
+> - 遇到的所有疑问都去问 Gemini 3.0, GPT 5.2, [Qwen 3 Max](https://chat.qwen.ai/), [Seed 1.8 aka 豆包](https://www.doubao.com/chat/) 等有一定智力水平和稳定发挥的 LLM。
+> - 推荐 LLM 赞助位招租 :)
+
 # Code Journey | 编程之旅 1.0
 
 <div align="center">
@@ -10,10 +18,6 @@
 临走前可以在右上角留下一个 Star ⭐
 
 本活动组织者：北京工业大学民间组织 bjut-swift
-
-活动公共讨论区：[Sir this way](https://xiaoyuancat.com/note/2)
-
-欢迎新成员加入我们，请联系 openbjut@163.com
 
 ### 免责声明
 
