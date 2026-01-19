@@ -2,8 +2,9 @@
 > 本教程始于 Jul 30, 2023，在 2026 年重新回头看依然是时代的眼泪，故封存并不再更新（也许后面有人在学校组织学习活动）。
 > 大部分内容仍然可以借鉴，但是初学者建议做出一下改变：
 > - 选择 [uv](https://astral.sh/) 而不是教程里提到的 Anaconda
+> - 十分推荐阅读 [寻路之南——写给普通人的大学成长指南](https://cs4ncu.space/)，我和伙伴们都觉得这里的负一到零点五应该给几乎每个学生都看看，不止是本科生。
 > - 看完教程前两节后直接退出，然后直接去看最新的教材，如 《Python编程从新手到高手》 - 贾森·C. 麦克唐纳
-> - 遇到的所有疑问都去问 Gemini 3.0, GPT 5.2, [Qwen 3 Max](https://chat.qwen.ai/), [Seed 1.8 aka 豆包](https://www.doubao.com/chat/) 等有一定智力水平和稳定发挥的 LLM。
+> - 遇到的所有疑问都去问 Gemini 3.0, GPT 5.2, [Qwen 3 Max](https://chat.qwen.ai/), [DeepSeek V3.2](https://chat.deepseek.com/) 等有一定智力水平和稳定发挥的 LLM。
 > - 推荐 LLM 赞助位招租 :)
 
 # Code Journey | 编程之旅 1.0
